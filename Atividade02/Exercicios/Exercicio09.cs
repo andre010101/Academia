@@ -22,7 +22,7 @@ namespace Atividade02.Exercicios
     {
 
         public static void Ex09()
-        {
+        {   //coleta e armazena os testes    
             Console.WriteLine("Informe o primeiro valor do teste de glicemia");
             int test1 = int.Parse(Console.ReadLine());
 
@@ -31,12 +31,12 @@ namespace Atividade02.Exercicios
 
             Console.WriteLine("Informe o primeiro valor do teste de glicemia");
             int test3 = int.Parse(Console.ReadLine());
-
+            //media dos 3 testes
             int mediaTest = (test1 + test2 + test3) / 3;
 
 
 
-
+            //verifica a media acima ou abaixo do recomendado.
             if (mediaTest < 80 )
             {
                 Console.WriteLine("Você precisa diminuir 2 unidades de insulina ");
@@ -45,7 +45,7 @@ namespace Atividade02.Exercicios
             {
                 Console.WriteLine("Você precisa adicionar 2 unidades de insulina ");
             }
-
+            //vefica cada teste realizado.
             else if (test1 < 65 || test1 > 250 || test2 < 65 || test2 > 250 || test3 < 65 || test3 > 250)
             {
                 Console.WriteLine("avisá-lo que corre risco de hipoglicemia");

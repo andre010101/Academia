@@ -12,7 +12,8 @@
             //Exercicio06.Ex06();
             //Exercicio07.Ex07();
             //Exercicio08.Ex08();
-              Exercicio09.Ex09();
+            //Exercicio09.Ex09();
+              Exercicio10.Ex10();
         }
     }
 }
