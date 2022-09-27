@@ -9,8 +9,9 @@
             //Exercico03.Ex03();
             //Exercicio04.Ex04();
             //Exercicio05.Ex05();
-              //Exercicio06.Ex06();
-              Exercicio07.Ex07();
+            //Exercicio06.Ex06();
+            //Exercicio07.Ex07();
+              Exercicio08.Ex08();
         }
     }
 }
