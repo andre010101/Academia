@@ -55,7 +55,7 @@ namespace Atividade02.Exercicios
 
             }
             
-            if (totalVendasFuncionario >= 1000 && totalVendasFuncionario <= 4999 )
+            if (totalVendasFuncionario > 1000 && totalVendasFuncionario <= 4999 )
             {
                 Console.WriteLine($"O Funcionario {nome} com o codigo de numero {codigo} recebera {salarioBonusSete} Reais");
             }
