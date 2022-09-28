@@ -5,7 +5,9 @@
         static void Main(string[] args)
         {
             //Exercicio01.Ex01();
-            Exercicio02.Ex2();
+            //Exercicio02.Ex02();
+            //Exercicio03.EX03();
+            Exercicio04.Ex04();
 
         }
     }

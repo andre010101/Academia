@@ -1,8 +1,7 @@
 ﻿
-
 //2.Modificar o programa em VS anterior para que ao final ele pergunte ao usuário se ele deseja 
 //informar um outro número. Caso positivo, o programa em VS deve ser repetido.
- 
+
 //Exemplo:
 //Digite um número inteiro positivo: 8
 //Numero digitado: 8
@@ -10,7 +9,7 @@
 
 
 //Deseja informar outro número (s/n)? S
- 
+
 //Digite um número inteiro positivo: 12
 //Numero digitado: 20
 //Números inteiros pares entre 1 e 8: 2, 4, 6, 8, 10.
@@ -39,7 +38,7 @@ namespace Atividade03.atividades
             Console.WriteLine("Digite um numero inteiro");
             numero = int.Parse(Console.ReadLine());
 
-           
+
 
             while (numero < 0)
             {
@@ -55,7 +54,7 @@ namespace Atividade03.atividades
 
             for (int par2 = 0; par2 < numero; par2++)
             {
-                if (par2% 2 == 0)
+                if (par2 % 2 == 0)
                 {
 
                     Console.WriteLine($"numeros pares {par2}");
@@ -80,7 +79,7 @@ namespace Atividade03.atividades
             }
             while (outroNumero == "s");
 
-            
+
 
 
             for (int par2 = 0; par2 < numero; par2++)
@@ -97,14 +96,6 @@ namespace Atividade03.atividades
 
 
 
-            //for (int par = 0; par < numero2; par++)
-            //{
-            //    if (par % 2 == 0)
-            //    {
-
-            //        Console.WriteLine($"numeros pares {par}");
-            //    }
-            //}
 
         }
 
