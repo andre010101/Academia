@@ -1,0 +1,15 @@
+C:\Ambiente\Andre\academia\Atividade04\bin\Debug\net6.0\Atividade04.exe
+C:\Ambiente\Andre\academia\Atividade04\bin\Debug\net6.0\Atividade04.deps.json
+C:\Ambiente\Andre\academia\Atividade04\bin\Debug\net6.0\Atividade04.runtimeconfig.json
+C:\Ambiente\Andre\academia\Atividade04\bin\Debug\net6.0\Atividade04.dll
+C:\Ambiente\Andre\academia\Atividade04\bin\Debug\net6.0\Atividade04.pdb
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\Atividade04.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\Atividade04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\Atividade04.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\Atividade04.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\Atividade04.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\Atividade04.dll
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\refint\Atividade04.dll
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\Atividade04.pdb
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\Atividade04.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\Atividade04\obj\Debug\net6.0\ref\Atividade04.dll
