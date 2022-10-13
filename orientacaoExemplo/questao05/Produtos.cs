@@ -29,8 +29,8 @@ namespace orientacaoExemplo.questao05
 
         public void ApresentarProdutos()
         {
-            Console.WriteLine($"-O produto:{nomeProduto} \n  -quantidade: {quantidadeProduto}\n -custa: {quantidadeProduto}\n");
-            Console.WriteLine($"O valor de total de sua compra é de {total} Reais");
+            Console.WriteLine($" -O produto:{nomeProduto} \n  -quantidade: {quantidadeProduto}\n -custa: {quantidadeProduto}\n");
+            Console.WriteLine($"O valor de total da sua compra é de {total} Reais");
         }
 
         public void FormaDePagamento()

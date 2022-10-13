@@ -3,8 +3,14 @@ using System.Collections.Concurrent;
 using System.Diagnostics;
 using System.Linq.Expressions;
 using System.Runtime.CompilerServices;
+using orientacaoExemplo.aluguel;
+using System.Runtime.Intrinsics.X86;
 using orientacaoExemplo.arvore;
 using orientacaoExemplo.questao05;
+using orientacaoExemplo.questao06;
+using System.Numerics;
+using System.Reflection;
+using orientacaoExemplo.questao07;
 
 namespace orientacaoExemplo
 {
@@ -161,28 +167,109 @@ namespace orientacaoExemplo
             //    "	em	dinheiro,	cheque	ou	cartão."
 
 
-            Produtos p = new Produtos();
+            //Produtos p = new Produtos();
 
-            Console.WriteLine($"Digitem o nome do produto ");
-            p.nomeProduto = Console.ReadLine();
+            //Console.WriteLine($"Digite o nome do produto ");
+            //p.nomeProduto = Console.ReadLine();
 
-            Console.WriteLine($"Digite o valor do produto ");
-            p.valorProduto = int.Parse(Console.ReadLine());
-
-
-            Console.WriteLine($"Digite a quantidade do produto ");
-            p.quantidadeProduto = int.Parse(Console.ReadLine());
-            p.SomarProdutos();
-            Console.WriteLine("Digite 1 para cartao -2 para cheque - 3 para dinheiro ");
-            p.formaPg = (Console.ReadLine());
-           
-        
-            p.FormaDePagamento();
+            //Console.WriteLine($"Digite o valor do produto ");
+            //p.valorProduto = int.Parse(Console.ReadLine());
 
 
+            //Console.WriteLine($"Digite a quantidade do produto ");
+            //p.quantidadeProduto = int.Parse(Console.ReadLine());
+            //p.SomarProdutos();
+            //Console.WriteLine("Digite 1 para cartao -2 para cheque - 3 para dinheiro ");
+            //p.formaPg = (Console.ReadLine());
+
+            //p.ApresentarProdutos();
+            //p.FormaDePagamento();
 
 
 
+            //6 - Crie uma classe Agenda que pode armazenar 10 pessoas e que seja capaz de realizar as seguintes operações:
+            //void armazenaPessoa(String nome, int idade, float altura);
+            //void removePessoa(String nome);
+            //Pessoa buscaPessoa(String nome); // retorna a pessoa com o nome informado
+            //void imprimeAgenda(); // imprime os dados de todas as pessoas da agenda
+
+            /*
+            int op;
+
+            Agenda ag = new Agenda();
+
+            string nome;
+            int idade;
+            float altura;
+
+            Pessoa1 consulta = null;
+            Pessoa1 remove = null;
+            while (true)
+            {
+                Console.WriteLine("Digite 1 para cadastrar pessoa\nDigite 2 para buscar as informações \nDigite 3 para apagar pessoa\nDigite 4 para sair");
+                op = int.Parse(Console.ReadLine());
+                if (op == 1)
+                {
+                    Console.WriteLine("Digite o nome da pessoa: ");
+                    nome = Console.ReadLine();
+                    Console.WriteLine("Digite o idade da pessoa: ");
+                    idade =int.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite a altura da pessoa: ");
+                    altura = float.Parse(Console.ReadLine());
+                    ag.ArmazenaPessoa(nome, idade, altura);
+                   
+                    Console.Clear();
+                    ag.MostraPessoas();
+                }
+                if (op == 2)
+                {
+                    Console.WriteLine("Digite o nome da pessoa que deseja consultar: ");
+                    nome = Console.ReadLine();
+                    consulta = ag.BuscaPessoa(nome);
+                    if (consulta != null)
+                    {
+                        Console.WriteLine("PESSOA ENCONTRADA! NOME: " + consulta.nome + " idade " + consulta.idade);
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("Pessoa nao encotrada");
+                    }
+                }
+                if (op == 3)
+                {
+                    Console.WriteLine("Digite o nome da pessoa que sairá: ");
+                     nome= Console.ReadLine();
+                     ag.RemovePessoa(nome);
+                }
+                if (op == 4)
+                {
+                    break;
+                }
+            }
+
+            */
+
+            //7 - Crie uma classe denominada Elevador para armazenar as informações de um elevador dentro de um prédio. A classe deve armazenar o andar atual (térreo = 0), total de andares no prédio (desconsiderando o térreo), capacidade do elevador e quantas pessoas estão presentes nele. A classe deve também disponibilizar os seguintes métodos:
+            //Inicializa: que deve receber como parâmetros a capacidade do elevador e o total de andares no prédio (os elevadores sempre começam no térreo e vazio);
+            //Entra: para acrescentar uma pessoa no elevador (só deve acrescentar se ainda houver espaço);
+            //Sai: para remover uma pessoa do elevador (só deve remover se houver alguém dentro dele);
+            //Sobe: para subir um andar(não deve subir se já estiver no último andar);
+            //Desce: para descer um andar(não deve descer se já estiver no térreo);
+            //Encapsular todos os atributos da classe (criar os métodos set e get).
+
+
+
+            Elevador elevador = new Elevador(0);
+            elevador.IniciarElevador();
+            elevador.sobe();
+
+
+
+            elevador.entra();
+
+            elevador.ApresentarAndar();
+            elevador.ApresentarPessoasAndar();
         }
     }
 }
