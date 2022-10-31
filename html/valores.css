@@ -1,0 +1,94 @@
+#valores {
+    background-color: LightBlue;
+}
+
+
+.valores {
+    background-color: #f00;
+}
+
+
+
+.headerImg {
+    width: 100%;
+    height: 80px;
+    opacity: 0.8;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+
+}
+
+li {
+    list-style: none;
+    margin: 10px;
+    display: inline;
+
+}
+
+li a {
+    padding: 5px 10px;
+    margin: 0;
+    border: 0px solid #f00;
+    background: rgb(13, 141, 163);
+    text-decoration: none;
+    color: #FFF;
+    /* cantos arredondados */
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+li a:hover {
+    background: #CCC;
+    color: #000;
+    border-color: #000;
+
+}
+
+.headerImg {
+    width: 100%;
+    height: 80px;
+    opacity: 1;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+#centroD{
+    
+    display: flex;
+    text-align: center;
+    align-items: center;  
+    border-radius: 5px;
+    background-position: 10;
+    justify-content: center;
+    
+}
+#centroD h1{
+    
+  margin-left: 45%;
+    
+}
+#tabela{
+   width: 300px;
+   background-color: rgb(99, 99, 212);
+   
+}
+h1{
+    text-align: center;
+  
+}
+#rodapeDiv{
+    position: absolute;
+    bottom: 0;
+    background-color: blue;
+    color: #FFF;
+    width: 100%;
+    height: 80px;    
+    text-align: center;
+    line-height: 100px;
+}
