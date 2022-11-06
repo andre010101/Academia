@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" method="get" name="cadastro">
+        <input type="radio" id="fisica" name="2" onclick="checarF() ">Pessoa Fisica
+        <input type="radio" id="juridica" name="2" onclick="checarJ()" >Pessoa juridica
+        <br>
+        <input type="text" placeholder="Nome" id="nome"><br>
+        <input type="text" name="cpf" id="cpf" placeholder="CPF">        <input type="text" name="" id="cnpj" placeholder="CNPJ">
+        <br>
+        <input type="date" name="date" id="data"><br>
+        <input type="text" placeholder="Endereço" id="endereço"><br>
+        <input type="text" name="" id="cep" placeholder="CEP" oninput="this.value = this.value.replace(/[^0-9.]/g, ''); this.value = this.value.replace(/(\..*)\./g, '$1');" /><br>
+        <input type="tel" name="" id="telefone" placeholder="telefone" ><br>
+        <input type="email" name="" id="email" placeholder="email"><br>
+        
+        
+    </form>
+
+</body>
+<script src="ex10.js"></script>
+</html>

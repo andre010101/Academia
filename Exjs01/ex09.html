@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+    <form method="post"name="myForm"  onsubmit="return validateForm()">
+        <input type="text" placeholder="Login" id="login" required  >
+        <input type="password" placeholder="Senha" id="password" maxlength="10" minlength="6" required>
+        <input type="password" placeholder="Confirme Senha" id="confirm_password" maxlength="10" minlength="6" required>
+
+        <button type="submit" class="pure-button pure-button-primary">Confirmar</button>
+    
+        </form>
+</body>
+<script src="ex09.js"></script>
+</html>
