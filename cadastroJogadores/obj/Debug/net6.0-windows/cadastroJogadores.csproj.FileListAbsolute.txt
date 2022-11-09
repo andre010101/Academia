@@ -1,0 +1,17 @@
+C:\Ambiente\Andre\academia\cadastroJogadores\bin\Debug\net6.0-windows\cadastroJogadores.exe
+C:\Ambiente\Andre\academia\cadastroJogadores\bin\Debug\net6.0-windows\cadastroJogadores.deps.json
+C:\Ambiente\Andre\academia\cadastroJogadores\bin\Debug\net6.0-windows\cadastroJogadores.runtimeconfig.json
+C:\Ambiente\Andre\academia\cadastroJogadores\bin\Debug\net6.0-windows\cadastroJogadores.dll
+C:\Ambiente\Andre\academia\cadastroJogadores\bin\Debug\net6.0-windows\cadastroJogadores.pdb
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.Form_Principal.resources
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.csproj.GenerateResource.cache
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.dll
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\refint\cadastroJogadores.dll
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.pdb
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\cadastroJogadores.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\cadastroJogadores\obj\Debug\net6.0-windows\ref\cadastroJogadores.dll
