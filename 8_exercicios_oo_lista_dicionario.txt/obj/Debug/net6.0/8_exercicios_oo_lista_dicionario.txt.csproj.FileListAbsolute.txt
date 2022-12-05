@@ -1,0 +1,15 @@
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\bin\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.exe
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\bin\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.deps.json
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\bin\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.runtimeconfig.json
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\bin\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.dll
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\bin\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.pdb
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.dll
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\refint\8_exercicios_oo_lista_dicionario.txt.dll
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.pdb
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\8_exercicios_oo_lista_dicionario.txt.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\8_exercicios_oo_lista_dicionario.txt\obj\Debug\net6.0\ref\8_exercicios_oo_lista_dicionario.txt.dll
