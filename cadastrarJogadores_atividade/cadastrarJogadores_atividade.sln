@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadastrarJogadores_atividade", "cadastrarJogadores_atividade.csproj", "{B90A1710-95A3-460C-9566-CA8B4709E620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90A1710-95A3-460C-9566-CA8B4709E620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90A1710-95A3-460C-9566-CA8B4709E620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90A1710-95A3-460C-9566-CA8B4709E620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90A1710-95A3-460C-9566-CA8B4709E620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16585B20-11EB-4324-871F-67187135DEC2}
+	EndGlobalSection
+EndGlobal

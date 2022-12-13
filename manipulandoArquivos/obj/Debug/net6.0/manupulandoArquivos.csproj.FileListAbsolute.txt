@@ -1,0 +1,15 @@
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\bin\Debug\net6.0\manupulandoArquivos.exe
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\bin\Debug\net6.0\manupulandoArquivos.deps.json
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\bin\Debug\net6.0\manupulandoArquivos.runtimeconfig.json
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\bin\Debug\net6.0\manupulandoArquivos.dll
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\bin\Debug\net6.0\manupulandoArquivos.pdb
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\manupulandoArquivos.csproj.AssemblyReference.cache
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\manupulandoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\manupulandoArquivos.AssemblyInfoInputs.cache
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\manupulandoArquivos.AssemblyInfo.cs
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\manupulandoArquivos.csproj.CoreCompileInputs.cache
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\manupulandoArquivos.dll
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\refint\manupulandoArquivos.dll
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\manupulandoArquivos.pdb
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\manupulandoArquivos.genruntimeconfig.cache
+C:\Ambiente\projetos\BackEnd\AULA\manupulandoArquivos\obj\Debug\net6.0\ref\manupulandoArquivos.dll

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtosEntityCodeFirst", "AtosEntityCodeFirst.csproj", "{0AFE5C59-70C3-4F8E-893A-797189495329}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataModels", "DataModels", "{BFBAC599-DAEE-4E9B-8ECC-D7DBE855D46E}"
+	ProjectSection(SolutionItems) = preProject
+		Email.cs = Email.cs
+		Pessoa.cs = Pessoa.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Migrations", "Migrations", "{CC6E2FC0-14D2-4EF8-B07E-D4ADC851786D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{949A5B64-CAB9-42AF-98D2-4D383F8D132F}"
+	ProjectSection(SolutionItems) = preProject
+		Contexto.cs = Contexto.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFE5C59-70C3-4F8E-893A-797189495329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFE5C59-70C3-4F8E-893A-797189495329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFE5C59-70C3-4F8E-893A-797189495329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFE5C59-70C3-4F8E-893A-797189495329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D20A014-E207-4C08-9C98-CBCA0510D5C1}
+	EndGlobalSection
+EndGlobal

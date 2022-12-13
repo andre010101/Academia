@@ -1,0 +1,15 @@
+C:\Ambiente\Andre\academia\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.exe
+C:\Ambiente\Andre\academia\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.deps.json
+C:\Ambiente\Andre\academia\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.runtimeconfig.json
+C:\Ambiente\Andre\academia\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.dll
+C:\Ambiente\Andre\academia\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.pdb
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.dll
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\refint\laçosDeRepetição.dll
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.pdb
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\laçosDeRepetição\obj\Debug\net6.0\ref\laçosDeRepetição.dll

@@ -41,7 +41,7 @@ namespace Atividade02.Exercicios
             {
                 Console.WriteLine("atleta 1");
             }
-            else (idadeAtleta2 < idadeAtleta1 && alturaAlteta2 > alturaAlteta1)
+            if(idadeAtleta2 < idadeAtleta1 && alturaAlteta2 > alturaAlteta1)
             {
                 Console.WriteLine("atleta 2");
             }

@@ -1,0 +1,15 @@
+C:\Ambiente\Andre\academia\lista2\bin\Debug\net6.0\lista2.exe
+C:\Ambiente\Andre\academia\lista2\bin\Debug\net6.0\lista2.deps.json
+C:\Ambiente\Andre\academia\lista2\bin\Debug\net6.0\lista2.runtimeconfig.json
+C:\Ambiente\Andre\academia\lista2\bin\Debug\net6.0\lista2.dll
+C:\Ambiente\Andre\academia\lista2\bin\Debug\net6.0\lista2.pdb
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\lista2.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\lista2.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\lista2.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\lista2.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\lista2.dll
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\refint\lista2.dll
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\lista2.pdb
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\lista2.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\lista2\obj\Debug\net6.0\ref\lista2.dll

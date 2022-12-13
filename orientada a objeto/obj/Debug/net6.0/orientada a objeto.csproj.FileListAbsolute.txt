@@ -1,0 +1,15 @@
+C:\Ambiente\Andre\academia\orientada a objeto\bin\Debug\net6.0\orientada a objeto.exe
+C:\Ambiente\Andre\academia\orientada a objeto\bin\Debug\net6.0\orientada a objeto.deps.json
+C:\Ambiente\Andre\academia\orientada a objeto\bin\Debug\net6.0\orientada a objeto.runtimeconfig.json
+C:\Ambiente\Andre\academia\orientada a objeto\bin\Debug\net6.0\orientada a objeto.dll
+C:\Ambiente\Andre\academia\orientada a objeto\bin\Debug\net6.0\orientada a objeto.pdb
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\orientada a objeto.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\orientada a objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\orientada a objeto.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\orientada a objeto.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\orientada a objeto.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\orientada a objeto.dll
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\refint\orientada a objeto.dll
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\orientada a objeto.pdb
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\orientada a objeto.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\orientada a objeto\obj\Debug\net6.0\ref\orientada a objeto.dll

@@ -1,0 +1,15 @@
+C:\Ambiente\Andre\academia\AnimalOrien\bin\Debug\net6.0\AnimalOrien.exe
+C:\Ambiente\Andre\academia\AnimalOrien\bin\Debug\net6.0\AnimalOrien.deps.json
+C:\Ambiente\Andre\academia\AnimalOrien\bin\Debug\net6.0\AnimalOrien.runtimeconfig.json
+C:\Ambiente\Andre\academia\AnimalOrien\bin\Debug\net6.0\AnimalOrien.dll
+C:\Ambiente\Andre\academia\AnimalOrien\bin\Debug\net6.0\AnimalOrien.pdb
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\AnimalOrien.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\AnimalOrien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\AnimalOrien.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\AnimalOrien.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\AnimalOrien.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\AnimalOrien.dll
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\refint\AnimalOrien.dll
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\AnimalOrien.pdb
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\AnimalOrien.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\AnimalOrien\obj\Debug\net6.0\ref\AnimalOrien.dll

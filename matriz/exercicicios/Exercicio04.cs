@@ -27,22 +27,22 @@ namespace matriz.exercicicios
             positivos = 0;
             negativos = 0;
             zero = 0;
-            for (l = 0; l < 3; l++)
+            for (c = 0;c < 3; c++)
             {
-                for (c = 0; c < 3; c++)
+                for (l = 0; l < 3; l++)
                 {
-                    Console.Write($"Matriz matriz[4,4]\ndigite o indice  [ {l},{c} ]");
+                    Console.Write($"Matriz matriz[4,4]\ndigite o indice  [ {c},{l} ]");
                     matriz[c, l] = Convert.ToInt32(Console.ReadLine());
                     Console.Clear();
                 }
 
             }
 
-            for ( l = 0; l < 3; l++)
+            for ( c = 0; c < 3; c++)
             {
-                for(c = 0; c < 3; c++)
+                for(l = 0; l < 3; l++)
                 {
-                    if (matriz[l, c] % 2 == 0)
+                    if (matriz[c, l] % 2 == 0)
                     {
                         pares++;
                         
@@ -51,15 +51,15 @@ namespace matriz.exercicicios
                     {
                         impares++;
                     }
-                    if (matriz[l, c] > 0)
+                    if (matriz[c, l] > 0)
                     {
                         positivos++;
                     }
-                     else if (matriz[l, c] < 0)
+                     else if (matriz[c, l] < 0)
                     {
                         negativos++;
                     }
-                    if (matriz[l, c] == 0)
+                    if (matriz[c, l] == 0)
                     {
                         zero++;
                     }

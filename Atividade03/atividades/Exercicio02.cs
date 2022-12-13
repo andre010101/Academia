@@ -1,21 +1,21 @@
 ﻿
-//2.Modificar o programa em VS anterior para que ao final ele pergunte ao usuário se ele deseja 
-//informar um outro número. Caso positivo, o programa em VS deve ser repetido.
+//2.modificar o programa em vs anterior para que ao final ele pergunte ao usuário se ele deseja 
+//informar um outro número. caso positivo, o programa em vs deve ser repetido.
 
-//Exemplo:
-//Digite um número inteiro positivo: 8
-//Numero digitado: 8
-//Números inteiros pares entre 1 e 8: 2, 4, 6.
-
-
-//Deseja informar outro número (s/n)? S
-
-//Digite um número inteiro positivo: 12
-//Numero digitado: 20
-//Números inteiros pares entre 1 e 8: 2, 4, 6, 8, 10.
+//exemplo:
+//digite um número inteiro positivo: 8
+//numero digitado: 8
+//números inteiros pares entre 1 e 8: 2, 4, 6.
 
 
-//Deseja informar outro número (s/n)? N
+//deseja informar outro número (s/n)? s
+
+//digite um número inteiro positivo: 12
+//numero digitado: 20
+//números inteiros pares entre 1 e 8: 2, 4, 6, 8, 10.
+
+
+//deseja informar outro número (s/n)? n
 
 
 
@@ -25,17 +25,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atividade03.atividades
+namespace atividade03.atividades
 {
-    internal class Exercicio02
+    internal class exercicio02
     {
 
-        public static void Ex2()
+        public static void ex2()
         {
             int numero;
-            string outroNumero;
+            string outronumero;
 
-            Console.WriteLine("Digite um numero inteiro");
+            Console.WriteLine("digite um numero inteiro");
             numero = int.Parse(Console.ReadLine());
 
 
@@ -43,7 +43,7 @@ namespace Atividade03.atividades
             while (numero < 0)
             {
                 Console.Clear();
-                Console.WriteLine("Digite um numero inteiro");
+                Console.WriteLine("digite um numero inteiro");
                 numero = int.Parse(Console.ReadLine());
             }
 
@@ -63,21 +63,21 @@ namespace Atividade03.atividades
 
             do
             {
-                Console.WriteLine("Deseja informar outro número (s/n)? ");
-                outroNumero = (Console.ReadLine());
-                if (outroNumero == "s")
+                Console.WriteLine("deseja informar outro número (s/n)? ");
+                outronumero = (Console.ReadLine());
+                if (outronumero == "s")
                 {
-                    Console.WriteLine("Digite um outro numero");
+                    Console.WriteLine("digite um outro numero");
                     numero = int.Parse(Console.ReadLine());
 
                 }
-                if (outroNumero == "n")
+                if (outronumero == "n")
                 {
                     Console.WriteLine($"o numero digitado foi {numero}");
                     break;
                 }
             }
-            while (outroNumero == "s");
+            while (outronumero == "s");
 
 
 

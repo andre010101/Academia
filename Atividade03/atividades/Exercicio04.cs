@@ -9,35 +9,65 @@
 
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atividade03.atividades
+namespace Atividade04.atividades
 {
     internal class Exercicio04
     {
         public static void Ex04()
         {
-            string joao, zeca, branco, candidato;
 
+
+            int  joao = 0, zeca = 0, branco = 0;
+            string nome;
 
             do
             {
-                Console.WriteLine("digite o nome do candidato");
-                candidato = Console.ReadLine();
-                if (candidato == "joao")
+                
+
+                Console.WriteLine("O nome do candidato");
+                nome = (Console.ReadLine());
+                if (nome == "joao")
                 {
-                    Console.WriteLine("hello");
+                    joao++;
+                   
+                }
+                if (nome == "zeca")
+                {
+                   zeca++;
 
                 }
+                if (nome == "branco")
+                {
+                    branco++;
+                 
+                }
 
-            } while (candidato == "joao");
+               
+            }
+
+
+
+            while (nome != "fim");
+
+            Console.WriteLine($"nome {nome}  joao teve {joao}  zeca teve {zeca}  total de votos brancos {branco}");
+
+
+
+
+
+
+
+
+
 
 
 
         }
-
-
     }
 }

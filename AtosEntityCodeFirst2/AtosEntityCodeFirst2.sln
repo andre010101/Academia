@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtosEntityCodeFirst2", "AtosEntityCodeFirst2.csproj", "{1D8728BD-32A3-4E9A-AB99-1F95916E02C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{7171768B-DD32-41DF-B514-7C025DFB36E5}"
+	ProjectSection(SolutionItems) = preProject
+		Contexto.cs = Contexto.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataModels", "DataModels", "{8DD3EA9D-F51F-43E9-BA5F-B1117A9F5199}"
+	ProjectSection(SolutionItems) = preProject
+		Email.cs = Email.cs
+		Pessoa.cs = Pessoa.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D8728BD-32A3-4E9A-AB99-1F95916E02C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8728BD-32A3-4E9A-AB99-1F95916E02C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8728BD-32A3-4E9A-AB99-1F95916E02C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8728BD-32A3-4E9A-AB99-1F95916E02C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74023791-723F-407A-A162-A2F42F381002}
+	EndGlobalSection
+EndGlobal

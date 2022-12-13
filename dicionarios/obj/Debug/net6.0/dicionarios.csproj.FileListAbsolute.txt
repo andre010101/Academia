@@ -1,0 +1,15 @@
+C:\Ambiente\Andre\academia\dicionarios\bin\Debug\net6.0\dicionarios.exe
+C:\Ambiente\Andre\academia\dicionarios\bin\Debug\net6.0\dicionarios.deps.json
+C:\Ambiente\Andre\academia\dicionarios\bin\Debug\net6.0\dicionarios.runtimeconfig.json
+C:\Ambiente\Andre\academia\dicionarios\bin\Debug\net6.0\dicionarios.dll
+C:\Ambiente\Andre\academia\dicionarios\bin\Debug\net6.0\dicionarios.pdb
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\dicionarios.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\dicionarios.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\dicionarios.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\dicionarios.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\dicionarios.dll
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\refint\dicionarios.dll
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\dicionarios.pdb
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\dicionarios.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\dicionarios\obj\Debug\net6.0\ref\dicionarios.dll

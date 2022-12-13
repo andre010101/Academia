@@ -11,6 +11,7 @@ using orientacaoExemplo.questao06;
 using System.Numerics;
 using System.Reflection;
 using orientacaoExemplo.questao07;
+using orientacaoExemplo.questao08;
 
 namespace orientacaoExemplo
 {
@@ -260,16 +261,29 @@ namespace orientacaoExemplo
 
 
 
-            Elevador elevador = new Elevador(0);
-            elevador.IniciarElevador();
-            elevador.sobe();
+            //Elevador elevador = new Elevador(0);
+            //elevador.IniciarElevador();
+            //elevador.sobe();
 
 
 
-            elevador.entra();
+            //elevador.entra();
 
-            elevador.ApresentarAndar();
-            elevador.ApresentarPessoasAndar();
+            //elevador.ApresentarAndar();
+            //elevador.ApresentarPessoasAndar();
+
+            //8 - Crie uma classe Televisao e uma classe ControleRemoto que pode controlar o volume e trocar os canais da televisão.
+            //O controle de volume permite:
+            //-aumentar ou diminuir a potência do volume de som em uma unidade de cada vez;
+            //-aumentar e diminuir o número do canal em uma unidade
+            //- trocar para um canal indicado;
+            //-consultar o valor do volume de som e o canal selecionado.
+
+            ControleRemoto r = new ControleRemoto();
+            r.IniciaTv();
+
+
+
         }
     }
 }
